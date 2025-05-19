@@ -259,9 +259,9 @@ t.goto(160,30)
 t.goto(85,-100)
 t.goto(150,-100)
 t.end_fill()
-#orange
+#onion
 t.goto(150,-250)
-t.fillcolor('orange')
+t.fillcolor('red')
 t.begin_fill()
 t.circle(15)
 t.end_fill()
