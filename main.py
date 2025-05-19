@@ -267,20 +267,4 @@ t.circle(15)
 t.end_fill()
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 turtle.done()
